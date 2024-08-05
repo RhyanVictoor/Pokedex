@@ -24,6 +24,8 @@ CSS: Estilização e layout.
 
 JavaScript: Lógica, interatividade e API.
 
-https://mario-jump-game-mocha.vercel.app/
+https://pokedex-rhyan-victors-projects.vercel.app/
 
-![foto game](https://github.com/RhyanVictoor/Mario-Jump/blob/main/imagens/mario.png?raw=true)
+![foto](https://github.com/RhyanVictoor/Pokedex/blob/main/imagens/Captura%20de%20tela%202024-08-05%20181419.png?raw=true)
+
+créditos @Manual do Dev
