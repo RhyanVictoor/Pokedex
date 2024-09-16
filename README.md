@@ -1,31 +1,30 @@
-**POKEDEX**
+# Pokedex
 
-Bem-vindo ao repositório da Pokedex!
-Este projeto é uma demonstração dos meus conhecimentos em JavaScript e desenvolvimento web.
+Este é o repositório da pokedex desenvolvido com HTML, CSS e JavaScript
 
------------------------------------------------------------------------------------------------
+## Funcionalidades
 
-**Funcionalidades:**
-Pesquisar Pokémons
+- Pesquisar Pokémons.
+- Visualizar seu nome e número.
+- Gifs animados.
+- Botões de avançar e voltar Pokémons.
 
-Visualizar seu nome e número
+## Como Usar
 
-Gifs animados
+1. Abra o arquivo `index.html` em seu navegador da web.
 
-Botões de avançar e voltar Pokémons
+## Pré-requisitos
 
------------------------------------------------------------------------------------------------
+Não há pré-requisitos específicos para utilizar.
 
-**Tecnologias Utilizadas:**
+## Contribuindo
 
-HTML: Estruturação da página.
+Este é um projeto de código aberto e contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, relatar problemas ou enviar solicitações de pull.
 
-CSS: Estilização e layout.
+## Tecnologias Utilizadas
 
-JavaScript: Lógica, interatividade e API.
-
-https://pokedex-rhyan-victors-projects.vercel.app/
+- HTML: Estruturação da página.
+- CSS: Estilização e layout.
+- JavaScript: Lógica e interatividade.
 
 ![foto](https://github.com/RhyanVictoor/Pokedex/blob/main/imagens/Captura%20de%20tela%202024-08-05%20181419.png?raw=true)
-
-créditos @Manual do Dev
